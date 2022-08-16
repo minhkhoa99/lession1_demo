@@ -1,0 +1,82 @@
+#hide-tx{
+
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    line-height: 250px;
+    background-color: red;
+    color: white;
+}
+#btn{
+
+    margin: 10px;
+
+}
+
+#hide-txt{
+
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    line-height: 250px;
+    background-color: red;
+    color: white;
+}
+#butt{
+
+    margin: 10px;
+
+}
+
+
+#change #change1{
+background-color: red;
+width: 200px;
+height: 200px;
+text-align: center;
+line-height: 200px;
+margin: 10px;
+}
+#change #change2{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    margin: 10px;
+    }
+
+    #change{
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+    }
+    #zoom{
+width: 300px;
+height: 300px;
+background-color: red;
+text-align: center;
+line-height: 300px;
+margin: 30px;
+
+    }
+    #click{
+
+        margin: 10px;
+    }
+
+    #b1-2{
+display: flex;
+
+    }
+    #b1{
+margin: 20px;
+    }
+    #b2{
+        margin: 20px;
+            }
+
+            #b3-4{
+                display: flex;
+                
+                    }
